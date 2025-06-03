@@ -45,8 +45,7 @@ Bu projede, <b>80.000+</b> Türkçe film yorumu içeren veri seti kullanılarak,
 ## 📊 Model Performansı
 
 > Accuracy: <b>%.2f</b>  
-> (Not: Gerçek doğruluk skorunu buraya yazabilirsiniz.)
-
+> gerçek doğruluk skoru:  0.7469662381352877
 Ek olarak `classification_report` ve `confusion_matrix` analizleri de yapılmıştır.
 
 
