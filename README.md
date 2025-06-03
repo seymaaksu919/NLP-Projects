@@ -58,3 +58,10 @@ Bu projede, <b>80.000+</b> Türkçe film yorumu içeren veri seti kullanılarak,
 ├── NLP.ipynb                 # Jupyter Notebook dosyası
 ├── turkish_movie_sentiment_dataset.csv  # Veri seti
 ├── README.md                 # Proje açıklaması
+
+
+## 📂 Veri Seti
+
+Veri seti bu repoda yer almaktadır:  
+👉 [`turkish_movie_sentiment_dataset.csv`](./turkish_movie_sentiment_dataset.csv)
+
