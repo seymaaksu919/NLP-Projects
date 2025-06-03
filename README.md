@@ -62,6 +62,6 @@ Bu projede, <b>80.000+</b> Türkçe film yorumu içeren veri seti kullanılarak,
 
 ## 📂 Veri Seti
 
-Veri seti bu repoda yer almaktadır:  
-👉 [`turkish_movie_sentiment_dataset.csv`](./turkish_movie_sentiment_dataset.csv)
+Veri seti bu Kaggle da  yer almaktadır:  
+👉 turkish_movie_sentiment_dataset.csv
 
