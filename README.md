@@ -43,10 +43,12 @@ Bu projede, <b>80.000+</b> Türkçe film yorumu içeren veri seti kullanılarak,
 
 
 ## 📊 Model Performansı
+ 
+> Gerçek (Accuracy)doğruluk skoru:  0.7469662381352877
+> Doğal dil işleme projeleri için makul bir başarı oranıdır.
+Özellikle Türkçe yorumlar gibi dilsel zorluklar barındıran bir veriyle çalışıldığında, Naive Bayes gibi temel bir model için bu oran oldukça yerinde kabul edebiliriz.
 
-> Accuracy: <b>%.2f</b>  
-> gerçek doğruluk skoru:  0.7469662381352877
-Ek olarak `classification_report` ve `confusion_matrix` analizleri de yapılmıştır.
+> Ek olarak `classification_report` ve `confusion_matrix` analizleri de yapılmıştır.
 
 
 ## 📁 Proje Dosyaları
