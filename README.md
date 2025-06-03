@@ -5,13 +5,11 @@
   <i>Doğal Dil İşleme (NLP), TF-IDF, Naive Bayes Sınıflandırma</i>
 </p>
 
----
 
 ## 📌 Proje Açıklaması
 
 Bu projede, <b>80.000+</b> Türkçe film yorumu içeren veri seti kullanılarak, yorumların <b>pozitif</b> veya <b>negatif</b> olup olmadığı sınıflandırılmıştır. Python kullanılarak veri temizliği, metin ön işleme (text preprocessing) ve makine öğrenmesi (Naive Bayes) uygulanmıştır.
 
----
 
 ## 🧠 Kullanılan Teknolojiler
 
@@ -23,7 +21,6 @@ Bu projede, <b>80.000+</b> Türkçe film yorumu içeren veri seti kullanılarak,
   <li><b>Matplotlib, Seaborn</b> - Görselleştirme</li>
 </ul>
 
----
 
 ## 🗃️ Veri Seti
 
@@ -33,7 +30,6 @@ Bu projede, <b>80.000+</b> Türkçe film yorumu içeren veri seti kullanılarak,
   - <b>point</b>: Verilen puan (örnek: 4.5)
   - <b>label</b>: Otomatik oluşturulan etiket ("positive" veya "negative")
 
----
 
 ## 🔧 Uygulanan Adımlar
 
@@ -45,7 +41,6 @@ Bu projede, <b>80.000+</b> Türkçe film yorumu içeren veri seti kullanılarak,
   <li><b>Model Değerlendirme:</b> Accuracy, precision, recall, F1-score, confusion matrix</li>
 </ol>
 
----
 
 ## 📊 Model Performansı
 
@@ -54,7 +49,6 @@ Bu projede, <b>80.000+</b> Türkçe film yorumu içeren veri seti kullanılarak,
 
 Ek olarak `classification_report` ve `confusion_matrix` analizleri de yapılmıştır.
 
----
 
 ## 📁 Proje Dosyaları
 
