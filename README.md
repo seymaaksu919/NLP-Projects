@@ -6,12 +6,12 @@
 </p>
 
 
-## 📌 Proje Açıklaması
+##  Proje Açıklaması
 
 Bu projede, <b>80.000+</b> Türkçe film yorumu içeren veri seti kullanılarak, yorumların <b>pozitif</b> veya <b>negatif</b> olup olmadığı sınıflandırılmıştır. Python kullanılarak veri temizliği, metin ön işleme (text preprocessing) ve makine öğrenmesi (Naive Bayes) uygulanmıştır.
 
 
-## 🧠 Kullanılan Teknolojiler
+## Kullanılan Teknolojiler
 
 <ul>
   <li><b>Python</b></li>
@@ -22,7 +22,7 @@ Bu projede, <b>80.000+</b> Türkçe film yorumu içeren veri seti kullanılarak,
 </ul>
 
 
-## 🗃️ Veri Seti
+## Veri Seti
 
 - Dosya Adı: <code>turkish_movie_sentiment_dataset.csv</code>
 - Özellikler:
@@ -31,7 +31,7 @@ Bu projede, <b>80.000+</b> Türkçe film yorumu içeren veri seti kullanılarak,
   - <b>label</b>: Otomatik oluşturulan etiket ("positive" veya "negative")
 
 
-## 🔧 Uygulanan Adımlar
+## Uygulanan Adımlar
 
 <ol>
   <li><b>Veri Yükleme ve Keşif (EDA)</b></li>
@@ -42,7 +42,7 @@ Bu projede, <b>80.000+</b> Türkçe film yorumu içeren veri seti kullanılarak,
 </ol>
 
 
-## 📊 Model Performansı
+## Model Performansı
  
 > Gerçek (Accuracy)doğruluk skoru:  0.7469662381352877.
 > Doğal dil işleme projeleri için makul bir başarı oranıdır.
@@ -50,14 +50,6 @@ Bu projede, <b>80.000+</b> Türkçe film yorumu içeren veri seti kullanılarak,
 
 > Ek olarak `classification_report` ve `confusion_matrix` analizleri de yapılmıştır.
 
-
-## 📁 Proje Dosyaları
-
-```bash
-📂 NLP-Projesi
-├── NLP.ipynb                 # Jupyter Notebook dosyası
-├── turkish_movie_sentiment_dataset.csv  # Veri seti
-├── README.md                 # Proje açıklaması
 
 
 ## 📂 Veri Seti
